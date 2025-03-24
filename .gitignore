@@ -26,3 +26,5 @@ poetry.lock
 
 # pyenv, virtualenv artifacts.
 .python-version
+
+data/

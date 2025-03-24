@@ -1,0 +1,8 @@
+DATE: str = 'date'
+START_IMPR_PREFIX: str = 'Impressions '
+START_SPEND_PREFIX: str = 'Spend '
+SPEND_PREFIX: str = 'mdsp_'
+IMPR_PREFIX: str = 'mdip_'
+CTRB_PREFIX: str = 'mdct_'
+TARGET: str = 'sales_units'
+REVENUE_PER_KPI: str = 'price'
